@@ -1,7 +1,7 @@
 package colegio;
 
 import java.util.Date;
-
+//Amelia Paniagua Gálvez
 public final class AlumnoCiclo extends Alumno {
 
     public AlumnoCiclo() {

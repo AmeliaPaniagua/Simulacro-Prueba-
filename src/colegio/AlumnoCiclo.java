@@ -1,7 +1,11 @@
 package colegio;
 
 import java.util.Date;
+
 //pruba 20/05/2018 hola
+
+//Amelia Paniagua 20/05/2018
+
 public final class AlumnoCiclo extends Alumno {
 
     public AlumnoCiclo() {

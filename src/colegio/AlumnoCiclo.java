@@ -1,8 +1,7 @@
-//20/05/2018
 package colegio;
 
 import java.util.Date;
-
+//Amelia Paniagua Gálvez 20/05/2018
 public final class AlumnoCiclo extends Alumno {
 
     public AlumnoCiclo() {
